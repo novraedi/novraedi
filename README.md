@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel, Node JS, React, Vue, Golang, Cloud Computing, and DevOps**
 
-- 👯 I’m looking to collaborate on [SIAKAD (Sistem Informasi Akademik)](kad.smktelkom-sda.sch.id/)
+- 👯 I’m looking to collaborate on [SIAKAD (Sistem Informasi Akademik)](siakad.smktelkom-sda.sch.id/)
 
 - 💬 Ask me about **Very enthusiastic in learning the latest technology and adaptable**
 
